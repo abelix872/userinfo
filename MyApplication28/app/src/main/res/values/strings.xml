@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">user information</string>
+    <string name="username">username</string>
+    <string name="gender">gender</string>
+    <string name="mobile">mobile</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+     <string name= "detail">detail</string>
+</resources>
